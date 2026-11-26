@@ -43,20 +43,12 @@ Included in desktop metalayers. Not typically added directly:
 
 ## Used In
 
-- `/charly-selkies:sway-desktop` -- via metalayer composition
-- `/charly-selkies:selkies-desktop-layer` -- via metalayer composition
 
 ## Used In Boxes
 
-- `/charly-selkies:sway-browser-vnc` (via `sway-desktop` metalayer)
-- `/charly-selkies:selkies-labwc` (via `selkies-desktop` metalayer)
-- `/charly-selkies:selkies-labwc-nvidia` (via `selkies-desktop` metalayer)
 
 ## Related Skills
 
-- `/charly-selkies:waybar` -- uses JetBrains Mono + Symbols Nerd Font
-- `/charly-selkies:waybar-labwc` -- same fonts
-- `/charly-selkies:swaync` -- uses JetBrains Mono
 - `/charly-check:check` -- declarative testing framework (Authoring Gotcha #8 on package renames)
 - `/charly-image:layer` -- candy authoring reference
 
