@@ -41,12 +41,6 @@ Included in desktop metalayers. Not typically added directly:
 - Provides `Symbols Nerd Font` and `Symbols Nerd Font Mono` for waybar icons and swaync
 - JetBrains Mono is the primary font for waybar and swaync Catppuccin Mocha theme
 
-## Used In
-
-
-## Used In Boxes
-
-
 ## Related Skills
 
 - `/charly-check:check` -- declarative testing framework (Authoring Gotcha #8 on package renames)
