@@ -57,7 +57,5 @@ checks.
 ## Related
 
 - Owning skill: `/charly-selkies:desktop-fonts`
-- Consumers: `/charly-selkies:sway-desktop`, `/charly-selkies:selkies-desktop-layer`
-- Users: `/charly-selkies:waybar`, `/charly-selkies:swaync`
 - [`opencharly/charly`](https://github.com/opencharly/charly) — the charly CLI and image builder
 - [`opencharly/opencharly`](https://github.com/opencharly/opencharly) — the umbrella
